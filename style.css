@@ -32,6 +32,9 @@ body {
   width: 100%;
   text-align: center;
 }
+.first {
+  color: lightgrey;
+}
 
 h1 { margin: 0 0 0.5rem; color: #2ecc71; }
 p { margin: 0 0 1.5rem; color: #042a1e; line-height: 1.4; }
